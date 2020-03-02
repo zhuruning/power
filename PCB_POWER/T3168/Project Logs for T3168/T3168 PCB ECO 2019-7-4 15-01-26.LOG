@@ -1,0 +1,108 @@
+Added Component: Designator=*1(HDR1X2)
+Added Component: Designator=*(SWITCH)
+Added Component: Designator=*(SWITCH)
+Added Component: Designator=C9(RB7.6-15)
+Added Component: Designator=C10(RAD-0.3)
+Added Component: Designator=C11(RAD-0.3)
+Added Component: Designator=D2(DO-204AL)
+Added Component: Designator=D3(DO-204AL)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=R8(AXIAL-0.4)
+Added Component: Designator=R9(AXIAL-0.4)
+Added Component: Designator=U4(STC89C52RC)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=GND Pin=*1-1
+Added Pin To Net: NetName=GND Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=C9-2
+Added Pin To Net: NetName=Net*_2 Pin=R8-1
+Added Pin To Net: NetName=Net*_2 Pin=U4-9
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=U4-22
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=NetC6_1 Pin=D2-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=D2-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U4-18
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U4-19
+Added Pin To Net: NetName=NetC11_1 Pin=Y1-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U4-11
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=U4-10
+Added Net: Name=NetP2_1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U4-31
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetU3_7 Pin=U4-1
+Added Net: Name=NetU3_7
+Added Pin To Net: NetName=VCC Pin=*-2
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=VCC Pin=U4-40
+Added Net: Name=VCC
+Added Class: Name=T3168
+Added Room: Name=T3168
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Clearance Constraint_2
+Added Rule: Name=Schematic Clearance Constraint_3
+Added Rule: Name=Schematic Clearance Constraint_4
+Added Rule: Name=Schematic Clearance Constraint_5
+Added Rule: Name=Schematic Clearance Constraint_6
+Added Rule: Name=Schematic Clearance Constraint_7
+Added Rule: Name=Schematic Clearance Constraint_8
+Added Rule: Name=Schematic Clearance Constraint_9
+Added Rule: Name=Schematic Clearance Constraint_10
+Added Rule: Name=Schematic Clearance Constraint_11
+Added Rule: Name=Schematic Clearance Constraint_12
+Added Rule: Name=Schematic Clearance Constraint_13
+Added Rule: Name=Schematic Clearance Constraint_14
+Added Rule: Name=Schematic Clearance Constraint_15
+Added Rule: Name=Schematic Clearance Constraint_16
+Added Rule: Name=Schematic Clearance Constraint_17
+Added Rule: Name=Schematic Clearance Constraint_18
+Added Rule: Name=Schematic Clearance Constraint_19
+Added Rule: Name=Schematic Clearance Constraint_20
+Added Rule: Name=Schematic Clearance Constraint_21
+Added Rule: Name=Schematic Clearance Constraint_22
+Added Rule: Name=Schematic Clearance Constraint_23
+Added Rule: Name=Schematic Clearance Constraint_24
+Added Rule: Name=Schematic Clearance Constraint_25
+Added Rule: Name=Schematic Clearance Constraint_26
+Added Rule: Name=Schematic Clearance Constraint_27
+Added Rule: Name=Schematic Clearance Constraint_28
+Added Rule: Name=Schematic Clearance Constraint_29
+Added Rule: Name=Schematic Clearance Constraint_30
+Added Rule: Name=Schematic Clearance Constraint_31
+Added Rule: Name=Schematic Clearance Constraint_32
+Added Rule: Name=Schematic Clearance Constraint_33
+Added Rule: Name=Schematic Clearance Constraint_34
+Added Rule: Name=Schematic Clearance Constraint_35
+Added Rule: Name=Schematic Clearance Constraint_36
+Added Rule: Name=Schematic Clearance Constraint_37
+Added Rule: Name=Schematic Clearance Constraint_38
+Added Rule: Name=Schematic Clearance Constraint_39

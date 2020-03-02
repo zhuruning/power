@@ -1,0 +1,102 @@
+Added Component: Designator=*(SWITCH)
+Added Component: Designator=*(SWITCH)
+Added Component: Designator=C6(RAD-0.3)
+Added Component: Designator=C7(RB7.6-15)
+Added Component: Designator=C8(RB7.6-15)
+Added Component: Designator=C9(RB7.6-15)
+Added Component: Designator=C10(RAD-0.3)
+Added Component: Designator=C11(RAD-0.3)
+Added Component: Designator=D2(DO-41)
+Added Component: Designator=D3(DO-41)
+Added Component: Designator=L2(HDR1X2)
+Added Component: Designator=L3(HDR1X2)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=R6(AXIAL-0.4)
+Added Component: Designator=R7(AXIAL-0.4)
+Added Component: Designator=R8(AXIAL-0.4)
+Added Component: Designator=R9(AXIAL-0.4)
+Added Component: Designator=U3(XKT-801 - duplicate1)
+Added Component: Designator=U4(STC89C52RC)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=VCC Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=Net*_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC6_2 Pin=D2-1
+Added Pin To Net: NetName=NetC7_1 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=L2-1
+Added Pin To Net: NetName=NetC8_1 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=NetC6_2 Pin=L3-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=NetC8_1 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetC8_1 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Pin To Net: NetName=Net*_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=NetC7_1 Pin=U3-2
+Added Pin To Net: NetName=NetD3_2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetR6_1 Pin=U3-5
+Added Pin To Net: NetName=NetU3_7 Pin=U3-7
+Added Pin To Net: NetName=NetU3_7 Pin=U4-1
+Added Pin To Net: NetName=Net*_2 Pin=U4-9
+Added Pin To Net: NetName=NetP2_1 Pin=U4-10
+Added Pin To Net: NetName=NetP1_2 Pin=U4-11
+Added Pin To Net: NetName=NetC10_2 Pin=U4-18
+Added Pin To Net: NetName=NetC11_1 Pin=U4-19
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=Net*_3 Pin=U4-22
+Added Pin To Net: NetName=NetR9_1 Pin=U4-31
+Added Pin To Net: NetName=VCC Pin=U4-40
+Added Pin To Net: NetName=NetC11_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-2
+Added Member To Class: ClassName=T3168 Member=Component * SWITCH
+Added Member To Class: ClassName=T3168 Member=Component * SWITCH
+Added Member To Class: ClassName=T3168 Member=Component C6 Cap
+Added Member To Class: ClassName=T3168 Member=Component C7 Cap Pol1
+Added Member To Class: ClassName=T3168 Member=Component C8 Cap Pol1
+Added Member To Class: ClassName=T3168 Member=Component C9 Cap Pol1
+Added Member To Class: ClassName=T3168 Member=Component C10 Cap
+Added Member To Class: ClassName=T3168 Member=Component C11 Cap
+Added Member To Class: ClassName=T3168 Member=Component D2 1N5817
+Added Member To Class: ClassName=T3168 Member=Component D3 1N5817
+Added Member To Class: ClassName=T3168 Member=Component L2 10uF/CD54
+Added Member To Class: ClassName=T3168 Member=Component L3 1
+Added Member To Class: ClassName=T3168 Member=Component P1 Header 2
+Added Member To Class: ClassName=T3168 Member=Component P2 Header 2
+Added Member To Class: ClassName=T3168 Member=Component P3 Header 2
+Added Member To Class: ClassName=T3168 Member=Component R6 Res2
+Added Member To Class: ClassName=T3168 Member=Component R7 Res2
+Added Member To Class: ClassName=T3168 Member=Component R8 Res2
+Added Member To Class: ClassName=T3168 Member=Component R9 Res2
+Added Member To Class: ClassName=T3168 Member=Component U3 T3168
+Added Member To Class: ClassName=T3168 Member=Component U4 STC89C52RC
+Added Member To Class: ClassName=T3168 Member=Component Y1 12MHZ
+Added Room: Name=T3168
